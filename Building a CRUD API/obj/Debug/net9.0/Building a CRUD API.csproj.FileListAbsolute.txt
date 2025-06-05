@@ -1,0 +1,36 @@
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\appsettings.Development.json
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\appsettings.json
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\Building a CRUD API.staticwebassets.endpoints.json
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\Building a CRUD API.exe
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\Building a CRUD API.deps.json
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\Building a CRUD API.runtimeconfig.json
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\Building a CRUD API.dll
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\Building a CRUD API.pdb
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\Dapper.dll
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\Building a CRUD API.csproj.AssemblyReference.cache
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\Building a CRUD API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\Building a CRUD API.AssemblyInfoInputs.cache
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\Building a CRUD API.AssemblyInfo.cs
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\Building a CRUD API.csproj.CoreCompileInputs.cache
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\Building a CRUD API.MvcApplicationPartsAssemblyInfo.cs
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\Building a CRUD API.MvcApplicationPartsAssemblyInfo.cache
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\Building a CRUD API.sourcelink.json
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\scopedcss\bundle\Building a CRUD API.styles.css
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\Building.340DD2AC.Up2Date
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\Building a CRUD API.dll
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\refint\Building a CRUD API.dll
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\Building a CRUD API.pdb
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\Building a CRUD API.genruntimeconfig.cache
+C:\Repos\DapperFromZeroToHero\Building a CRUD API\obj\Debug\net9.0\ref\Building a CRUD API.dll
