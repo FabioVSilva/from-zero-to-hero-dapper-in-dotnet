@@ -1,4 +1,4 @@
-﻿using System.Data.SqlClient;
+﻿using Microsoft.Data.SqlClient;
 using Dapper;
 using DapperConsole.Models;
 
@@ -9,16 +9,16 @@ public class MultipleRowQueryManager
     public async Task<IEnumerable<Product>> GetProductByColourAsync(string colour)
     {
         using var connection = new SqlConnection(Config.ConnectionString);
-        var sql = "SELECT * FROM Sales.LT.Product WHERE Color = @colour";
-        var result = await connection.QueryAsync<Product>(sql, new { Color = @colour });
+        var sql = "SELECT * FROM SalesLT.Product WHERE Color = @colour";
+        var result = await connection.QueryAsync<Product>(sql, new { @colour });
         return result;
     }
     
     public async Task<IEnumerable<ProductPartial>> GetPartialProductByColourAsync(string colour)
     {
         using var connection = new SqlConnection(Config.ConnectionString);
-        var sql = "SELECT * FROM Sales.LT.Product WHERE Color = @colour";
-        var result = await connection.QueryAsync<ProductPartial>(sql, new { Color = @colour });
+        var sql = "SELECT * FROM SalesLT.Product WHERE Color = @colour";
+        var result = await connection.QueryAsync<ProductPartial>(sql, new { @colour });
         return result;
     }
     
@@ -26,8 +26,8 @@ public class MultipleRowQueryManager
     public IEnumerable<Product> GetProductByColour(string colour)
     {
         using var connection = new SqlConnection(Config.ConnectionString);
-        var sql = "SELECT * FROM Sales.LT.Product WHERE Color = @colour";
-        var result = connection.Query<Product>(sql, new { Color = @colour });
+        var sql = "SELECT * FROM SalesLT.Product WHERE Color = @colour";
+        var result = connection.Query<Product>(sql, new { @colour });
         return result;
     }
 }

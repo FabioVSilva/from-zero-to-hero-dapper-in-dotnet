@@ -10,7 +10,6 @@ public class RelationalQueryManager
     {
         using (var connection = new SqlConnection(Config.ConnectionString))
         {
-            await connection.OpenAsync();
             var sql = @"SELECT
                 soh.SalesOrderID, soh.OrderDate, soh.TotalDue,
                 sd.SalesOrderDetailID, sd.ProductID, sd.OrderQty, sd.LineTotal
@@ -36,7 +35,6 @@ public class RelationalQueryManager
     {
         using (var connection = new SqlConnection(Config.ConnectionString))
         {
-            await connection.OpenAsync();
             var sql = @"
             SELECT 
                 p.ProductID, p.Name, p.ProductNumber,

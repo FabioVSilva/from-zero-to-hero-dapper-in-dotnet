@@ -1,6 +1,6 @@
-﻿using System.Data.SqlClient;
-using Dapper;
+﻿using Dapper;
 using DapperConsole.Models;
+using Microsoft.Data.SqlClient;
 
 namespace DapperConsole;
 
@@ -24,30 +24,29 @@ class Program
             while (await reader.ReadAsync())
             {
                 customers.Add(new Customer()
-                    {
-                        CustomerID = reader.GetInt32(0),
-                        NameStyle = reader.GetBoolean(1),
-                        Title = reader.IsDBNull(2) ? null : reader.GetString(2),
-                        FirstName = reader.GetString(3),
-                        MiddleName = reader.IsDBNull(4) ? null : reader.GetString(4),
-                        LastName = reader.GetString(5),
-                        Suffix = reader.IsDBNull(6) ? null : reader.GetString(6),
-                        CompanyName = reader.GetString(7),
-                        SalesPerson = reader.GetString(8),
-                        EmailAddress = reader.GetString(9),
-                        Phone = reader.GetString(10),
-                        PasswordHash = reader.GetString(11),
-                        PasswordSalt = reader.GetString(12),
-                        rowguid = reader.GetGuid(13),
-                        ModifiedDate = reader.GetDateTime(14)
-                    }
-                );
+                {
+                    CustomerID = reader.GetInt32(0),
+                    NameStyle = reader.GetBoolean(1),
+                    Title = reader.IsDBNull(2) ? null : reader.GetString(2),
+                    FirstName = reader.GetString(3),
+                    MiddleName = reader.IsDBNull(4) ? null : reader.GetString(4),
+                    LastName = reader.GetString(5),
+                    Suffix = reader.IsDBNull(6) ? null : reader.GetString(6),
+                    CompanyName = reader.GetString(7),
+                    SalesPerson = reader.GetString(8),
+                    EmailAddress = reader.GetString(9),
+                    Phone = reader.GetString(10),
+                    PasswordHash = reader.GetString(11),
+                    PasswordSalt = reader.GetString(12),
+                    rowguid = reader.GetGuid(13),
+                    ModifiedDate = reader.GetDateTime(14)
+                });
             }
         }
-        
+
         return customers;
     }
-    
+
     public static async Task<IEnumerable<Customer>> GetCustomersWithDapperAsync()
     {
         using (var connection = new SqlConnection(Config.ConnectionString))

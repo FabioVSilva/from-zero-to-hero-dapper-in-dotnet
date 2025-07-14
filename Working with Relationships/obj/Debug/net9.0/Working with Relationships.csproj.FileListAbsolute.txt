@@ -1,0 +1,24 @@
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\bin\Debug\net9.0\Working with Relationships.exe
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\bin\Debug\net9.0\Working with Relationships.deps.json
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\bin\Debug\net9.0\Working with Relationships.runtimeconfig.json
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\bin\Debug\net9.0\Working with Relationships.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\bin\Debug\net9.0\Working with Relationships.pdb
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\bin\Debug\net9.0\Dapper.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\obj\Debug\net9.0\Working with Relationships.csproj.AssemblyReference.cache
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\obj\Debug\net9.0\Working with Relationships.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\obj\Debug\net9.0\Working with Relationships.AssemblyInfoInputs.cache
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\obj\Debug\net9.0\Working with Relationships.AssemblyInfo.cs
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\obj\Debug\net9.0\Working with Relationships.csproj.CoreCompileInputs.cache
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\obj\Debug\net9.0\Working with Relationships.sourcelink.json
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\obj\Debug\net9.0\Working .05CBBC52.Up2Date
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\obj\Debug\net9.0\Working with Relationships.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\obj\Debug\net9.0\refint\Working with Relationships.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\obj\Debug\net9.0\Working with Relationships.pdb
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\obj\Debug\net9.0\Working with Relationships.genruntimeconfig.cache
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Working with Relationships\obj\Debug\net9.0\ref\Working with Relationships.dll

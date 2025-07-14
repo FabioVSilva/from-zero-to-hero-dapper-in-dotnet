@@ -13,8 +13,6 @@ builder.Services.AddScoped<IDbConnection>(sp =>
     new SqlConnection(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<IProductRepository, ProductRespository>();
 
-
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -24,7 +22,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 
 app.MapGet("/products", async (IProductService productService) =>
 {
@@ -49,7 +46,6 @@ app.MapPut("/products", async (Product product, IProductService productService) 
 {
     await productService.UpdateProductAsync(product);
 });
-
 
 app.Run();
 

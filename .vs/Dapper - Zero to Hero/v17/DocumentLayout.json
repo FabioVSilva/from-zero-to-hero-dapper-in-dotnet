@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|d:\\source\\repos\\fabiovsilva\\from-zero-to-hero-dapper-in-dotnet\\building a crud api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|solutionrelative:building a crud api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|d:\\source\\repos\\fabiovsilva\\from-zero-to-hero-dapper-in-dotnet\\building a crud api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|solutionrelative:building a crud api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6F7D3-4624-4B97-8417-8DF14D44AB15}|Bulk Operations\\Bulk Operations.csproj|d:\\source\\repos\\fabiovsilva\\from-zero-to-hero-dapper-in-dotnet\\bulk operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6F7D3-4624-4B97-8417-8DF14D44AB15}|Bulk Operations\\Bulk Operations.csproj|solutionrelative:bulk operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6F7D3-4624-4B97-8417-8DF14D44AB15}|Bulk Operations\\Bulk Operations.csproj|d:\\source\\repos\\fabiovsilva\\from-zero-to-hero-dapper-in-dotnet\\bulk operations\\bulkoperationexamples\\bulkinsertmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6F7D3-4624-4B97-8417-8DF14D44AB15}|Bulk Operations\\Bulk Operations.csproj|solutionrelative:bulk operations\\bulkoperationexamples\\bulkinsertmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6F7D3-4624-4B97-8417-8DF14D44AB15}|Bulk Operations\\Bulk Operations.csproj|d:\\source\\repos\\fabiovsilva\\from-zero-to-hero-dapper-in-dotnet\\bulk operations\\bulk operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5E6F7D3-4624-4B97-8417-8DF14D44AB15}|Bulk Operations\\Bulk Operations.csproj|solutionrelative:bulk operations\\bulk operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F8B90D-430E-4D47-A24F-1049828362CB}|Executing Stored Procedures\\Executing Stored Procedures.csproj|d:\\source\\repos\\fabiovsilva\\from-zero-to-hero-dapper-in-dotnet\\executing stored procedures\\stored procedure examples\\storedproceduremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F8B90D-430E-4D47-A24F-1049828362CB}|Executing Stored Procedures\\Executing Stored Procedures.csproj|solutionrelative:executing stored procedures\\stored procedure examples\\storedproceduremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F8B90D-430E-4D47-A24F-1049828362CB}|Executing Stored Procedures\\Executing Stored Procedures.csproj|d:\\source\\repos\\fabiovsilva\\from-zero-to-hero-dapper-in-dotnet\\executing stored procedures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F8B90D-430E-4D47-A24F-1049828362CB}|Executing Stored Procedures\\Executing Stored Procedures.csproj|solutionrelative:executing stored procedures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|d:\\source\\repos\\fabiovsilva\\from-zero-to-hero-dapper-in-dotnet\\building a crud api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|solutionrelative:building a crud api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|d:\\source\\repos\\fabiovsilva\\from-zero-to-hero-dapper-in-dotnet\\building a crud api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|solutionrelative:building a crud api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|d:\\source\\repos\\fabiovsilva\\from-zero-to-hero-dapper-in-dotnet\\building a crud api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|solutionrelative:building a crud api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|d:\\source\\repos\\fabiovsilva\\from-zero-to-hero-dapper-in-dotnet\\building a crud api\\repositories\\productrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|solutionrelative:building a crud api\\repositories\\productrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|d:\\source\\repos\\fabiovsilva\\from-zero-to-hero-dapper-in-dotnet\\building a crud api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A966C8-A409-4175-A139-1F3356DAFE00}|Building a CRUD API\\Building a CRUD API.csproj|solutionrelative:building a crud api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 60,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65d61de1-c41c-4504-8c3d-c97027b25ca8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Building a CRUD API\\appsettings.Development.json",
+              "ToolTip": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\appsettings.Development.json",
+              "RelativeToolTip": "Building a CRUD API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T20:31:13.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulkInsertManager.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Bulk Operations\\BulkOperationExamples\\BulkInsertManager.cs",
+              "RelativeDocumentMoniker": "Bulk Operations\\BulkOperationExamples\\BulkInsertManager.cs",
+              "ToolTip": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Bulk Operations\\BulkOperationExamples\\BulkInsertManager.cs",
+              "RelativeToolTip": "Bulk Operations\\BulkOperationExamples\\BulkInsertManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:01:37.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Bulk Operations\\Program.cs",
+              "RelativeDocumentMoniker": "Bulk Operations\\Program.cs",
+              "ToolTip": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Bulk Operations\\Program.cs",
+              "RelativeToolTip": "Bulk Operations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:01:13.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bulk Operations",
+              "DocumentMoniker": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Bulk Operations\\Bulk Operations.csproj",
+              "RelativeDocumentMoniker": "Bulk Operations\\Bulk Operations.csproj",
+              "ToolTip": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Bulk Operations\\Bulk Operations.csproj",
+              "RelativeToolTip": "Bulk Operations\\Bulk Operations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T20:01:08.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Executing Stored Procedures\\Program.cs",
+              "RelativeDocumentMoniker": "Executing Stored Procedures\\Program.cs",
+              "ToolTip": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Executing Stored Procedures\\Program.cs",
+              "RelativeToolTip": "Executing Stored Procedures\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:52:42.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoredProcedureManager.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Executing Stored Procedures\\Stored Procedure Examples\\StoredProcedureManager.cs",
+              "RelativeDocumentMoniker": "Executing Stored Procedures\\Stored Procedure Examples\\StoredProcedureManager.cs",
+              "ToolTip": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Executing Stored Procedures\\Stored Procedure Examples\\StoredProcedureManager.cs",
+              "RelativeToolTip": "Executing Stored Procedures\\Stored Procedure Examples\\StoredProcedureManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:52:36.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\appsettings.json",
+              "RelativeDocumentMoniker": "Building a CRUD API\\appsettings.json",
+              "ToolTip": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\appsettings.json",
+              "RelativeToolTip": "Building a CRUD API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T16:29:50.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Building a CRUD API\\Services\\IProductService.cs",
+              "ToolTip": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\Services\\IProductService.cs",
+              "RelativeToolTip": "Building a CRUD API\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:08:19.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Building a CRUD API\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Building a CRUD API\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:07:20.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\Program.cs",
+              "RelativeDocumentMoniker": "Building a CRUD API\\Program.cs",
+              "ToolTip": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\Program.cs",
+              "RelativeToolTip": "Building a CRUD API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:05:08.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Building a CRUD API\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\Services\\ProductService.cs",
+              "RelativeToolTip": "Building a CRUD API\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:04:55.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRespository.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\Repositories\\ProductRespository.cs",
+              "RelativeDocumentMoniker": "Building a CRUD API\\Repositories\\ProductRespository.cs",
+              "ToolTip": "D:\\Source\\Repos\\FabioVSilva\\from-zero-to-hero-dapper-in-dotnet\\Building a CRUD API\\Repositories\\ProductRespository.cs",
+              "RelativeToolTip": "Building a CRUD API\\Repositories\\ProductRespository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:04:46.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

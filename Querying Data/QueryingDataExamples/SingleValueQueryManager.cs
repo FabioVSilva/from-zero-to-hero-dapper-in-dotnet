@@ -1,4 +1,4 @@
-﻿using System.Data.SqlClient;
+﻿using Microsoft.Data.SqlClient;
 using Dapper;
 
 namespace DapperConsole.QueryingDataExamples;
@@ -9,7 +9,7 @@ public class SingleValueQueryManager
     {
         using var connection = new SqlConnection(Config.ConnectionString);
         var sql = "SELECT COUNT(*) FROM SalesLT.Customer";
-        var count = await connection.QuerySingleAsync<int>(sql);
+        var count = await connection.ExecuteScalarAsync<int>(sql);
         return count;
     }
 

@@ -1,0 +1,24 @@
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\bin\Debug\net9.0\Executing Stored Procedures.exe
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\bin\Debug\net9.0\Executing Stored Procedures.deps.json
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\bin\Debug\net9.0\Executing Stored Procedures.runtimeconfig.json
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\bin\Debug\net9.0\Executing Stored Procedures.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\bin\Debug\net9.0\Executing Stored Procedures.pdb
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\bin\Debug\net9.0\Dapper.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\obj\Debug\net9.0\Executing Stored Procedures.csproj.AssemblyReference.cache
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\obj\Debug\net9.0\Executing Stored Procedures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\obj\Debug\net9.0\Executing Stored Procedures.AssemblyInfoInputs.cache
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\obj\Debug\net9.0\Executing Stored Procedures.AssemblyInfo.cs
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\obj\Debug\net9.0\Executing Stored Procedures.csproj.CoreCompileInputs.cache
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\obj\Debug\net9.0\Executing Stored Procedures.sourcelink.json
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\obj\Debug\net9.0\Executin.402A833B.Up2Date
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\obj\Debug\net9.0\Executing Stored Procedures.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\obj\Debug\net9.0\refint\Executing Stored Procedures.dll
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\obj\Debug\net9.0\Executing Stored Procedures.pdb
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\obj\Debug\net9.0\Executing Stored Procedures.genruntimeconfig.cache
+D:\Source\Repos\FabioVSilva\from-zero-to-hero-dapper-in-dotnet\Executing Stored Procedures\obj\Debug\net9.0\ref\Executing Stored Procedures.dll
